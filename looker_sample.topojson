@@ -1,0 +1,42 @@
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.000001, 0.000001],
+    "translate": [139.773367, 35.681858]
+  },
+  "objects": {
+    "sample": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {
+            "type": "Point",
+            "name": "Shiga’s Bar"
+          },
+          "coordinates": [429, 379]
+        },
+        {
+          "type": "LineString",
+          "properties": {
+            "type": "LineString",
+            "name": "東京日本橋タワー周辺"
+          },
+          "arcs": [[0]]
+        },
+        {
+          "type": "Polygon",
+          "properties": {
+            "type": "Polygon",
+            "name": "東京日本橋タワー"
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [
+    [[0, 0], [1265, -518], [360, 553], [-1261, 540], [-364, -575]],
+    [[402, -4], [863, -366], [226, 387], [-875, 349], [-214, -370],[402, -4]]
+  ]
+}
