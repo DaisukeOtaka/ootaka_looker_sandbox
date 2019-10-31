@@ -13,7 +13,7 @@
           "properties": {
             "id": 1,
             "type": "Point",
-            "name": "Shiga’s Bar"
+            "name": "☆Shiga’s Bar"
           },
           "coordinates": [429, 379]
         },
@@ -22,7 +22,7 @@
           "properties": {
             "id": 2,
             "type": "LineString",
-            "name": "東京日本橋タワー周辺"
+            "name": "☆東京日本橋タワー周辺"
           },
           "arcs": [[0]]
         },
@@ -31,7 +31,7 @@
           "properties": {
             "id": 3,
             "type": "Polygon",
-            "name": "東京日本橋タワー"
+            "name": "☆東京日本橋タワー"
           },
           "arcs": [[1]]
         }
