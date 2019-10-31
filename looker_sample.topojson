@@ -16,15 +16,6 @@
             "name": "☆東京日本橋タワー"
           },
           "arcs": [[0]]
-        },
-        {
-          "type": "Polygon",
-          "properties": {
-            "id": 2,
-            "type": "Polygon",
-            "name": "☆東京"
-          },
-          "arcs": [[1]]
         }
       ]
     }
